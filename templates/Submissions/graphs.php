@@ -72,15 +72,15 @@
     <ul class="plots">
         <li>
             <h3>IO500 Score</h3>
-            <iframe src="../webroot/plots/plotly/io500-score.html"></iframe>
+            <iframe src="/webroot/plots/plotly/io500-score.html"></iframe>
         </li>
         <li>
             <h3>IO500 Bandwidth</h3>
-            <iframe src="../webroot/plots/plotly/io500-bandwidth.html"></iframe>
+            <iframe src="/webroot/plots/plotly/io500-bandwidth.html"></iframe>
         </li>
         <li>
             <h3>IO500 Metadata</h3>
-            <iframe src="../webroot/plots/plotly/io500-metadata.html"></iframe>
+            <iframe src="/webroot/plots/plotly/io500-metadata.html"></iframe>
         </li>
     </ul>
 
